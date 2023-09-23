@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Screw" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Screws_assembly" assemblyId="306802f1e8db4a0ea75ac160a53fe8c0">
+<Part name="Screw" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.0123916 0.0145096 0.0262016" rotation="AD: 0.994755 0.164411 -0.8169 197.541" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.0178865 0.0175176 0.0344925" rotation="AD: -0.658284 -0.836454 2.25426 168.808" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="0.0113293 -0.00964029 0.0694791" rotation="AD: 0.998324 -0.145986 0.456969 212.127" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

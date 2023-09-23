@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.17.4">
+<ModelTarget name="New_GAYKA" targetId="e46f34e17cd046c48612918141cce773" version="14.0" toolVersion="10.17.4" bbox="-0.014931 -0.012929 -0.016304 0.014924 0.007696 0.016304" previewImage="e46f34e17cd046c48612918141cce773_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="New_GAYKAs_assembly" assemblyId="f85329841539422db60ca016e59a1eb2">
+<Part name="New_GAYKA" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="1.12224e-07 -0.00201627 0.059264" rotation="AD: -0.969328 -0.362825 1.00596 152.768" image="New_GAYKA_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-2.56114e-06 -0.00153575 0.0588132" rotation="AD: 0.9991 0.159566 -0.312481 231.449" image="New_GAYKA_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-2.78465e-06 -0.00133147 0.0666602" rotation="AD: 0.999622 -0.136204 0.238874 237.601" image="New_GAYKA_GuideView_0002.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="-1.60304e-07 -0.00160895 0.0668493" rotation="AD: 0.961209 -0.445445 0.913518 217.047" image="New_GAYKA_GuideView_0003.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="2.46242e-06 -0.00145354 0.066737" rotation="AD: 0.611447 -0.948739 1.7763 197.641" image="New_GAYKA_GuideView_0004.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="2.59187e-06 -0.00074633 0.0664049" rotation="AD: -0.469372 -1.15162 1.54316 159.954" image="New_GAYKA_GuideView_0005.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0006" translation="2.35392e-07 -0.00104943 0.0665158" rotation="AD: -0.9173 -0.64862 0.990732 136.306" image="New_GAYKA_GuideView_0006.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0007" translation="8.09319e-07 -0.00139019 0.066696" rotation="AD: -0.894182 -0.645264 1.1647 145.671" image="New_GAYKA_GuideView_0007.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0008" translation="7.30361e-07 -1.84741e-05 0.0753226" rotation="AD: -0.817923 -1.03258 1.03869 128.28" image="New_GAYKA_GuideView_0008.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0009" translation="1.72108e-06 -0.00186149 0.0761002" rotation="AD: 0.850039 -0.64672 1.57705 200.742" image="New_GAYKA_GuideView_0009.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0010" translation="2.70217e-06 6.65127e-05 0.0682425" rotation="AD: -0.36007 1.38282 -1.34891 158.723" image="New_GAYKA_GuideView_0010.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0011" translation="3.56929e-07 -0.00198112 0.0691489" rotation="AD: 0.960039 -0.39984 1.07737 206.768" image="New_GAYKA_GuideView_0011.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

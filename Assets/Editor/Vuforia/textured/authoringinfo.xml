@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.17.4">
+<ModelTarget name="textured" targetId="9bd90796308f45638bd301b0aedc2d4b" version="14.0" toolVersion="10.17.4" bbox="-0.099974 -0.012679 0.024040 -0.081397 0.005318 0.033777" previewImage="9bd90796308f45638bd301b0aedc2d4b_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="textureds_assembly" assemblyId="ed31ba6f21e8408086f3c91c24d2d022">
+<Part name="textured" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.0907197 0.00825035 0.170551" rotation="AD: 0.0549867 10.2756 -1.00325 179.94" image="textured_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

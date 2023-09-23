@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="GAYKA" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="GAYKAs_assembly" assemblyId="2e899db206e349ef88ad34642366f1fb">
+<Part name="GAYKA" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0356619 0.0405445 0.507236" rotation="AD: -0.781053 -0.68436 2.3701 170.038" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.0359427 0.00057011 0.526733" rotation="AD: -0.49754 -1.26444 1.35404 152.77" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.0187388 0.0596648 0.470748" rotation="AD: 0.993847 0.184301 -0.780302 200.833" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="0.0140415 0.0601458 0.46451" rotation="AD: 0.999973 0.0391215 -0.194849 202.281" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="0.0351579 0.0497534 0.490209" rotation="AD: 0.999844 -0.065293 0.288293 204.507" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="0.0224167 0.032044 0.524371" rotation="AD: 0.98008 -0.274131 1.10002 198.514" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0006" translation="-0.012342 0.0113208 0.535781" rotation="AD: 0.502163 -0.961977 2.26941 189.674" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0007" translation="-0.0318154 0.0295384 0.520601" rotation="AD: -0.415056 -0.974454 2.78655 174.425" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0008" translation="-0.0327981 0.0151772 0.526598" rotation="AD: -0.357767 -1.08083 1.98197 170.242" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0009" translation="-0.031006 0.0428535 0.509033" rotation="AD: -0.897473 -0.638576 1.15406 145.419" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0010" translation="0.0056497 0.0620149 0.467973" rotation="AD: 0.999707 0.0808376 -0.32438 206.595" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

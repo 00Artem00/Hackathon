@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v6.0.3">
+        <ModelTarget name="GAYKA_Copy" targetId="103a7a28ab104d318ccefd0c4791fc0e" version="13.0" toolVersion="v6.0.3" bbox="-0.057044 0.011082 -0.113088 0.108016 0.091518 0.062058" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="GAYKA_Copy" assemblyId="878140d7a403458387f51b8004bbd71d">
+        <Part name="GAYKA_Copy" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

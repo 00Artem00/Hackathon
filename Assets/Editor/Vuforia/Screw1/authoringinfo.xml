@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.17.4">
+<ModelTarget name="Screw1" targetId="e617932a791647a4999bf9ddf9e123e6" version="14.0" toolVersion="10.17.4" bbox="-0.004904 -0.001850 -0.006381 0.004430 0.001850 0.005196" previewImage="e617932a791647a4999bf9ddf9e123e6_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Screw1s_assembly" assemblyId="68bc8c1bbce54c56ae524bac82a1ae48">
+<Part name="Screw1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0001" translation="-0.000576105 0.000152441 0.0210904" rotation="AD: 0.999154 0.118119 -0.390087 211.324" image="Screw1_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0000" translation="-0.000542239 0.000332848 0.0220758" rotation="AD: -0.997794 -0.280601 0.327243 103.584" image="Screw1_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.000408687 -0.000161779 0.0225902" rotation="AD: -0.972229 -0.276423 1.62935 170.167" image="Screw1_GuideView_0002.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

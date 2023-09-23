@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Detail_5_4" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_5_3" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_5_2" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_5_1" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_5" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_4_4" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_4_3" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_4_2" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_4_1" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_4" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_3_4" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_3_3" size="1.000000 0.750000" />
+    <ImageTarget name="Detail_3_2" size="1.000000 0.750000" />
+    <ImageTarget name="Detail_3_1" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_3" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_2_4" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_2_3" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_2_2" size="1.000000 0.750000" />
+    <ImageTarget name="Detail_2_1" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_2" size="1.000000 0.750000" />
+    <ImageTarget name="Detail_1_4" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_1_3" size="1.000000 0.750000" />
+    <ImageTarget name="Detail_1_2" size="1.000000 1.333333" />
+    <ImageTarget name="Detail" size="1.000000 1.333333" />
+    <ImageTarget name="Detail_1" size="1.000000 1.333333" />
+  </Tracking>
+</QCARConfig>
